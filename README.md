@@ -3,3 +3,6 @@ A collection of short articles about things I have learned. Inspiration from htt
 
 ## Bash
  - [Find an item through the terminal](https://github.com/ogwurujohnson/til/blob/master/finding_item.md)
+
+## JavaScript
+ - [MAX_SAFE_INTEGER]
